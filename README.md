@@ -7,7 +7,7 @@ Here are some ideas to get you started:
 -->
 
 - 🔭 I’m currently working on computer engineering
-- 🌱 I’m currently learning ML, DL, and NLP
+- 🌱 I’m currently learning SLAM
 - ⚡ I'm interested in AI, data science, computer architecture, embedded programming
 <!--
 - 👯 I’m looking to collaborate on ...
