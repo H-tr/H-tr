@@ -1,9 +1,22 @@
-### Hi there 👋
+# Hi, I'm Tianrun Hu 👋
 
-I'm a research engineer at the National University of Singapore (NUS), embarking on a dynamic journey that merges technology with imagination. My passion lies at the intersection of AI and robotics, where I'm on a mission to unveil the boundless possibilities they offer.
+I'm a PhD student in Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), advised by [Prof. Harold Soh](https://haroldsoh.com/) and supported by the **A*STAR Graduate Scholarship (Computing)**. I'm also a research intern at Stanford University, working on robot navigation for humanitarian assistance and disaster relief.
 
-🔍 My current research interest lies in robotic learning, where I am exploring innovative methods to improve the learning and adaptability of robotic systems in dynamic environments.
+Previously, I was a Research Engineer at the [Smart Systems Institute](https://ssi.nus.edu.sg/), NUS, under the supervision of [Prof. David Hsu](https://www.comp.nus.edu.sg/~dyhsu/), where I worked closely with [Dr. Hanbo Zhang](https://zhanghanbo.github.io/).
 
-🤝 I extend an invitation to you – fellow enthusiasts and curious minds – to join me on this voyage. Let's explore, discuss, and collaborate as we dive deep into the uncharted waters of AI, robotics, and the transformative potential they hold.
+## Research
 
-Feel free to connect with me and check out my work on [GitHub](https://github.com/H-tr).
+My research focuses on **real-world mobile manipulation**, with an emphasis on reasoning in unknown and dynamic environments. I develop representations and planning methods that enable robots to:
+
+- jointly reason about **where to look** and **how to act** under partial knowledge;
+- build **action-oriented object and scene representations**;
+- quantify uncertainty and adapt as the environment changes; and
+- tackle open-world, multi-step tasks in homes and public spaces.
+
+My recent work spans visibility-aware mobile grasping, open-world robot planning, uncertainty-aware visual grounding, robotic manipulation, and multimodal human–robot interaction.
+
+## Let's connect
+
+I'm always happy to discuss research, collaborate, or chat with students interested in robotics and graduate study.
+
+🌐 [Personal website](https://h-tr.github.io/) · 📚 [Publications](https://h-tr.github.io/publication/) · 📄 [Resume](https://h-tr.github.io/resume/)
