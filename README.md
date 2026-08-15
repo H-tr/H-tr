@@ -1,6 +1,6 @@
 # Hi, I'm Tianrun Hu 👋
 
-I'm a PhD student in Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), advised by [Prof. Harold Soh](https://haroldsoh.com/) and supported by the **A*STAR Graduate Scholarship (Computing)**. I'm also a research intern at Stanford University, working on robot navigation for humanitarian assistance and disaster relief.
+I'm a PhD student in Computer Science at the [National University of Singapore (NUS)](https://www.nus.edu.sg/), advised by [Prof. Harold Soh](https://haroldsoh.com/) and supported by the **A*STAR Graduate Scholarship (Computing)**.
 
 Previously, I was a Research Engineer at the [Smart Systems Institute](https://ssi.nus.edu.sg/), NUS, under the supervision of [Prof. David Hsu](https://www.comp.nus.edu.sg/~dyhsu/), where I worked closely with [Dr. Hanbo Zhang](https://zhanghanbo.github.io/).
 
